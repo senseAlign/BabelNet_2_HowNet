@@ -4,7 +4,7 @@ Sense aligning algorithm for BabelNet to HowNet
 algorithm.py takes 2 files: "entity.txt" and "test.txt". Both of which are from the previous research work : Sememe Prediction for BabelNet Synsets using Multilingual and Multimodal Information. You can download these two files in that paper's github page. 
 
 
-entity.txt has a list of all possible sememes that are considered during mapping (up to line 15461) and test.txt is basically the test set developed by the above paper. The algorithm matches the sememes for each babelnet synset in the test set and then calculate the AP and F score. 
+entity.txt has a list of all possible sememes that are considered during mapping (starting from line 15461 to the end) and test.txt is basically the test set developed by the above paper. The algorithm matches the sememes for each babelnet synset in the test set and then calculate the AP and F score. 
 
 
 
