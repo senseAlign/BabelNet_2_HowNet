@@ -25,6 +25,8 @@ please cantact authors if you have any questions!
 
 
 From Work: Bridging the Gap Between BabelNet and HowNet: Unsupervised Sense Alignment and Sememe Prediction
+
+
 @inproceedings{zhang-etal-2023-bridging,
     title = "Bridging the Gap Between BabelNet and HowNet: Unsupervised Sense Alignment and Sememe Prediction",
     author = "Zhang, Xiang  and
@@ -38,6 +40,5 @@ From Work: Bridging the Gap Between BabelNet and HowNet: Unsupervised Sense Alig
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2023.eacl-main.205",
     pages = "2789--2798",
-    abstract = "As the minimum semantic units of natural languages, sememes can provide precise representations of concepts. Despite the widespread utilization of lexical resources for semantic tasks, use of sememes is limited by a lack of available sememe knowledge bases. Recent efforts have been made to connect BabelNet with HowNet by automating sememe prediction. However, these methods depend on large manually annotated datasets. We propose to use sense alignment via a novel unsupervised and explainable method. Our method consists of four stages, each relaxing predefined constraints until a complete alignment of BabelNet synsets to HowNet senses is achieved. Experimental results demonstrate the superiority of our unsupervised method over previous supervised ones by an improvement of 12{\%} overall F1 score, setting a new state of the art. Our work is grounded in an interpretable propagation of sememe information between lexical resources, and may benefit downstream applications which can incorporate sememe information.",
 }
 
